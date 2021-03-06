@@ -7,7 +7,7 @@
 !.mvn/wrapper/maven-wrapper.jar
 /.mvn/wrapper/*.java
 
-### IDE configs ###
+# IDE configs #
 /.idea
 /.settings
 /.vscode
