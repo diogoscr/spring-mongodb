@@ -1,13 +1,16 @@
 # Default ignored files #
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 
 # Maven wrapper jar #
 /target/
 !.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/*.java
 
-### IntelliJ IDEA ###
-.idea
+### IDE configs ###
+/.idea
+/.settings
+/.vscode
 *.iws
 *.iml
 *.ipr
